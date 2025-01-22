@@ -42,8 +42,6 @@ Backend: Express.js and PostgreSQL
 
 Database: Supabase for data storage and API integration
 
-Styling: Chakra UI for consistent and responsive design
-
 Deployment: Render (or any other preferred platform)
 
 --------------------------------------------------------------------------------------------------------------------
